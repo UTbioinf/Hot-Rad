@@ -1,0 +1,2 @@
+Main-Class: assemb_local
+Class-Path: aligner sequence

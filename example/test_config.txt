@@ -1,0 +1,3 @@
+matchScore=10
+mismatchScore=-15
+gapScore=-40

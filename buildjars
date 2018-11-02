@@ -1,0 +1,5 @@
+javac *.java
+jar -cfm assembDist.jar manifest_D.txt assemb.class aligner.class sequence.class
+jar -cfm assembLocal.jar manifest_L.txt assemb_local.class aligner.class sequence.class
+chmod +x assembDist.jar
+chmod +x assembLocal.jar
